@@ -1,0 +1,31 @@
+O protótipo de programa capaz de gerenciar os dados pessoais dos membros de uma escola,
+criado na atividade avaliativa 01 com classes para Pessoa, Aluno, Funcionário, Funcionário
+Técnico-Administrativo e Funcionário Professor, deve ter, agora, interfaces gráficas para o
+cadastro, a edição e a exclusão dos dados.
+
+c) O programa deve oferecer as seguintes funcionalidades:
+a. Cadastro – OBS: CPF deve ser validado através de importação de classe.
+i. Aluno
+ii. Funcionário Técnico-Administrativo
+iii. Funcionário Professor
+
+b. Edição (se a edição envolver o CPF, o novo CPF deve ser validado)
+i. Aluno
+ii. Funcionário Técnico-Administrativo
+iii. Funcionário Professor
+
+c. Consulta (mostra todos os dados mais a idade atual)
+i. Aluno
+ii. Funcionário Técnico-Administrativo
+iii. Funcionário Professor
+
+d. Exclusão (remove o item do banco de dados)
+i. Aluno
+ii. Funcionário Técnico-Administrativo
+iii. Funcionário Professor
+
+No início da execução o programa deve realizar o controle de acesso com as mesmas
+especificações da atividade anterior, porém agora por meio de uma janela de login;
+a. Espaço para o usuário digitar seu nome completo;
+i. uma senha deve ser gerada formada pelo primeiro nome todo em maiúsculas seguido do dia, mês e ano atuais
+  Ex: (nome: Fulano de Tal – senha: FULANO762023
